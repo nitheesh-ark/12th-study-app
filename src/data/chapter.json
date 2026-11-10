@@ -1,0 +1,74 @@
+
+{
+  "Math": [
+    "Relations and Functions",
+    "Inverse Trigonometric Functions",
+    "Matrices",
+    "Determinants",
+    "Continuity and Differentiability",
+    "Applications of Derivatives",
+    "Integrals",
+    "Applications of Integrals",
+    "Differential Equations",
+    "Vector Algebra",
+    "Three Dimensional Geometry",
+    "Linear Programming",
+    "Probability"
+  ],
+  "Physics": [
+    "Electric Charges and Fields",
+    "Electrostatic Potential and Capacitance",
+    "Current Electricity",
+    "Moving Charges and Magnetism",
+    "Magnetism and Matter",
+    "Electromagnetic Induction",
+    "Alternating Current",
+    "Electromagnetic Waves",
+    "Ray Optics and Optical Instruments",
+    "Wave Optics",
+    "Dual Nature of Radiation and Matter",
+    "Atoms",
+    "Nuclei",
+    "Semiconductor Electronics"
+  ],
+  "Chemistry": [
+    "Solutions",
+    "Electrochemistry",
+    "Chemical Kinetics",
+    "The d- and f-Block Elements",
+    "Coordination Compounds",
+    "Haloalkanes and Haloarenes",
+    "Alcohols, Phenols and Ethers",
+    "Aldehydes, Ketones and Carboxylic Acids",
+    "Amines",
+    "Biomolecules"
+  ],
+  "Computer Science": [
+    "Python Revision",
+    "Functions and Recursion",
+    "Data Structures",
+    "Stacks",
+    "Queues",
+    "Searching and Sorting",
+    "Computer Networks",
+    "Database Management Systems",
+    "SQL",
+    "Python-MySQL Connectivity"
+  ],
+  "English": [
+    "The Last Lesson",
+    "Lost Spring",
+    "Deep Water",
+    "The Rattrap",
+    "Indigo",
+    "Poets and Pancakes",
+    "The Interview",
+    "Going Places",
+    "My Mother at Sixty-Six",
+    "Keeping Quiet",
+    "A Thing of Beauty",
+    "A Roadside Stand",
+    "Aunt Jennifer's Tigers"
+  ]
+}
+
